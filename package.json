@@ -1,0 +1,21 @@
+{
+  "name": "pastry-plugin-register",
+  "version": "1.0.0",
+  "description": "pastry 插件描述",
+  "cordova": {
+    "id": "pastry-plugin-register",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pastryTeam/pastry-plugin-register.git"
+  },
+  "keywords": [
+    "register"
+  ],
+  "author": "author",
+  "license": "MIT"
+}
